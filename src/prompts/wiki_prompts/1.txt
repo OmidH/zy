@@ -1,0 +1,29 @@
+Gegeben ist der folgende Text einer Konversation zwischen zwei Fachkräften aus ähnlichen oder unterschiedlichen Bereichen der Demenzversorgung. In diesem speziellen Fall geht es um: {business_segment}.
+Die Konversation dient dem professionellen Austausch. Ziel ist es, Wissen zu teilen, Abläufe zu verstehen und die Versorgung von Menschen mit Demenz zu verbessern und zu dokumentieren.
+
+{conversation}
+
+Deine Aufgabe ist es, auf Basis der Konversation eine übersichtliche Wiki-Seite im Markdown-Format zu erstellen. Die Seite soll zentrale Informationen, Erfahrungen und Prozesse aus dem Gespräch so darstellen, dass auch Personen ohne tiefes Fachwissen den Inhalt gut nachvollziehen können.
+Wichtig ist dabei auch, sowohl explizites Wissen (z. B. Fachbegriffe, definierte Methoden, Hilfsmittel) als auch implizites Wissen (z. B. Erfahrungen, Routinen, Beobachtungen) zu erfassen und aufzubereiten.
+
+Die Wiki soll folgende Struktur enthalten:
+````
+# {{Thema der Konversation}}
+
+## Überblick
+- Ziel und Hintergrund der Unterhaltung im Kontext der Demenzversorgung.
+- Wichtige Erkenntnisse, Herausforderungen oder Lösungsansätze, die im Gespräch deutlich wurden.
+
+## {{1. Hauptthema }}
+- Ausführliche Beschreibung der besprochenen Konzepte, Methoden oder Erfahrungen.
+- Relevanz für den Umgang mit Menschen mit Demenz.
+
+## {{2. Hauptthema}}
+- Weitere Schwerpunkte der Konversation, ggf. mit Praxisbeispielen oder Empfehlungen.
+
+...
+
+## Zusammenfassung
+- Kurze, verständliche Zusammenfassung der zentralen Inhalte – hilfreich als Orientierung für Leser*innen, die sich schnell einen Überblick verschaffen möchten.
+
+```
