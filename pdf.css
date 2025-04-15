@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1, h2, h3 {
+    color: #13C682;
+}
+
+h1 {
+    font-size: 1.3rem;
+    line-height: 2rem;
+}
+
+h2 {
+    font-size: 1.1rem;
+    line-height: 1.75rem;
+}
+
+h2 {
+    font-size: 1rem;
+    line-height: 1.75rem;
+}
+
+p {
+    font-size: 0.9rem;
+    line-height: 1.6;
+}
